@@ -1,7 +1,7 @@
 /********** Base styles **********/
 * {
     box-sizing: border-box;
-    font-family: sans-serif;
+    font-family: cursive;
 }
 h1 {
   margin-bottom: 15px;
@@ -17,7 +17,7 @@ h1 {
     background-color: #c7c1b8;
 }
 
-#menuitem1 {
+#item1 {
   border: 1px solid black;
   background-color: #e380dc;
   width: 40%;
@@ -30,27 +30,27 @@ h1 {
 
 }
 
-#menuitem2 {
+#item2 {
   border: 1px solid black;
   background-color: #e56e6e;
   width: 40%;
   height: 30px;
   margin-left: auto;
-    padding-top: 5px;
+  padding-top: 5px;
   color: white;
   text-align: center;
     float: right;
 
 }
 
-#menuitem3 {
+#item3 {
   border: 1px solid black;
   background-color: #bc9732;
   width: 40%;
   height: 30px;
   margin-left: auto;
-    padding-top: 5px;
-  font-family: sans-serif;
+  padding-top: 5px;
+ 
   color: white;
   text-align: center;
     float: right;
@@ -59,13 +59,12 @@ h1 {
 
  .content{
     height: 150px;
-    font-family: Helvitica;
+    font-family: cursive;
     margin-top: 40px;
     margin-right: 10px;
     margin-left: 10px;
     margin-bottom: 10px;
-font-family:sans-serif;
-  
+
 }
 
 
